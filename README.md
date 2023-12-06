@@ -8,10 +8,10 @@
 <div id="badges">
 </a> <br>
 <a href="https://www.instagram.com/radhiaulia/">
-  <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" height="35" width="150"/>
+  <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=blue" alt="Instagram Badge" height="35" width="150"/>
 </a> <br>
 <a href="mailto:radhiaaulia993@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge" height="35" width="150"/>
+  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=blue" alt="Youtube Badge" height="35" width="150"/>
 
 
 
