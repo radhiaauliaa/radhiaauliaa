@@ -1,6 +1,6 @@
 
 
- <img src="" width="2000" height="300">
+ <img src="https://github.com/radhiaaulia16/radhiaaulia16/blob/main/WELCOME.gif" width="2000" height="300">
  
 <p/>
 
