@@ -4,14 +4,13 @@
  
 <p/>
 
-### 📞 My Contact :
-<div id="badges">
-</a> <br>
+### 📞 Contact Me :
 <a href="https://www.instagram.com/radhiaulia/">
-  <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=yellow" alt="Instagram Badge" height="35" width="150"/>
+  <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" height="35" width="150"/>
+</a> <br>
 </a> <br>
 <a href="mailto:radhiaaulia993@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=yellow" alt="Youtube Badge" height="35" width="150"/>
+  <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge" height="35" width="150"/>
 
 
 
