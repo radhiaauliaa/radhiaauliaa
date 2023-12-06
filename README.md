@@ -23,7 +23,7 @@
 ##  About Me :
 - 💻 A Beginner at Programming
 - 📚 Studying Informatics Major at Universitas Negeri Padang
-- 📝 Interested in AI, UI\UX Design, and Game Development
+- 📝 Interested in AI, UI/UX Design, and Game Development
 - 🔭 Currently learning C
 - 🌱
 
