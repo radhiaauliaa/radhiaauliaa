@@ -13,7 +13,7 @@
 <div align="center">
   Contact Me
   <br><br>
-  <a href="mailto:radhiaaulia993@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of radhia i.e.   radhiaaulia993@gmail.com" /></a>
+  <a href="mailto:radhiaaulia993@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of radhiaaulia16 i.e.   radhiaaulia993@gmail.com" /></a>
   <a href="https://www.instagram.com/radhiaulia/"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209" alt="profile of Instagram with username radhiaulia" ></a>
  
 </div>
