@@ -21,11 +21,11 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
 
 ##  About Me :
-- 💻 A Beginner at Programming
-- 📚 Studying Informatics Major at Universitas Negeri Padang
-- 📝 Interested in AI, UI/UX Design, and Game Development
-- 🔭 Currently learning C
-- 🌱
+- A Beginner at Programming
+- Studying Informatics Major at Universitas Negeri Padang
+- Interested in AI, UI/UX Design, and Game Development
+- Currently learning C
+  🌱
 
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
 
