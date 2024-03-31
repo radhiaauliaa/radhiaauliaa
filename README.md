@@ -1,5 +1,4 @@
 
-
  <img src="https://github.com/radhiaauliaa/radhiaauliaa/blob/main/WELCOME.gif" width="2000" height="300">
  
 <p/>
