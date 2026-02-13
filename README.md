@@ -29,12 +29,12 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
 
 ## 📊 GitHub Stats:
-<table align="center">
-  <tr>
-    <td><img width="500p" align="center" src="https://github-readme-stats.vercel.app/api?username=radhiaauliaa&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true"><br><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=radhiaauliaa&theme=chartreuse-dark&hide_border=false"></td>
-    <td><img width="500p" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhiaauliaa&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"></td>
-  </tr>
-</table>
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=radhiaauliaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=radhiaauliaa&layout=compact&theme=algolia"/>
+</a>
+</p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
