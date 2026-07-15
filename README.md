@@ -105,19 +105,21 @@ Cross-platform mobile applications developed with Flutter and Firebase.
 
 # GitHub Analytics
 
-<p align="center">
+<table align="center" width="100%">
+<tr>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=radhiaauliaa&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<td width="50%" valign="middle" align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=radhiaauliaa&theme=aura&include_all_commits=true&cache_seconds=1800" width="100%"/>
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=radhiaauliaa&theme=aura&date_format=j%20M%5B%20Y%5D" width="100%"/>
+</td>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhiaauliaa&layout=compact&theme=github_dark&hide_border=true"/>
+<td width="50%" valign="middle" align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=radhiaauliaa&theme=aura&layout=normal&cache_seconds=1800" width="100%"/>
+</td>
 
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=radhiaauliaa&theme=github-dark-blue&hide_border=true"/>
-
-</p>
+</tr>
+</table>
 
 ---
 
@@ -145,13 +147,6 @@ Cross-platform mobile applications developed with Flutter and Firebase.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/radhiaauliaa/radhiaauliaa/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
-
----
-
-<p align="center">
-<i>"Learning never exhausts the mind."</i><br>
-<b>— Leonardo da Vinci</b>
 </p>
 
 ---
