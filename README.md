@@ -48,7 +48,7 @@ Building intelligent and impactful software through Artificial Intelligence, Mac
 
 ---
 
-# 👨🏻‍💻 About Me
+# About Me
 
 I'm a Computer Science student at **Universitas Negeri Padang** with a strong passion for **Artificial Intelligence**, **Machine Learning**, and **Software Development**.
 
@@ -56,7 +56,7 @@ I enjoy building intelligent applications ranging from **AI models** and **REST 
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ### 🍬 Cek-Gula
 AI-powered Indonesian traditional snack classification using TensorFlow, MobileNetV3, and FastAPI.
@@ -67,12 +67,9 @@ Deep Learning model for sentiment analysis on Indonesian Google Play reviews usi
 ### 📱 Flutter Applications
 Cross-platform mobile applications developed with Flutter and Firebase.
 
-### ⚡ PLN Dashboard
-Interactive business performance dashboard using Google Looker Studio.
-
 ---
 
-# ⚡ Tech Stack
+# Tech Stack
 
 <p align="center">
 
@@ -82,7 +79,7 @@ Interactive business performance dashboard using Google Looker Studio.
 
 ---
 
-# 🤖 AI & Data Science
+# AI & Data Science
 
 <p align="center">
 
@@ -106,7 +103,7 @@ Interactive business performance dashboard using Google Looker Studio.
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
 
@@ -124,7 +121,7 @@ Interactive business performance dashboard using Google Looker Studio.
 
 ---
 
-# 🌱 Currently Exploring
+# Currently Exploring
 
 <p align="center">
 
@@ -144,7 +141,7 @@ Interactive business performance dashboard using Google Looker Studio.
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/radhiaauliaa/radhiaauliaa/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
