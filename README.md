@@ -160,5 +160,5 @@ Interactive business performance dashboard using Google Looker Studio.
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+ Thanks for visiting my profile! 
 </p>
