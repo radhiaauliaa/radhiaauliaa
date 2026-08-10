@@ -139,7 +139,7 @@ Cross-platform mobile applications developed with Flutter and Firebase.
 
 <img src="https://img.shields.io/badge/Fullstack%20Development-009688?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Client-Server%20Programming-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Client%20Server%20Programming-009688?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Mobile%20Development-02569B?style=for-the-badge"/>
 
