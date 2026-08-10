@@ -58,6 +58,10 @@ I enjoy building intelligent applications ranging from **AI models** and **REST 
 
 # Featured Projects
 
+### ⚡ PIJAR — Internship Administration System
+
+Web-based internship administration platform for PT PLN (Persero) UP3 Padang, featuring online registration, multi-role management, GPS selfie attendance, daily journals, application verification, and automated notifications. Built with Next.js, TypeScript, Google Apps Script, Google Sheets, and Google Drive.
+
 ### 🍬 Cek-Gula
 AI-powered Indonesian traditional snack classification using TensorFlow, MobileNetV3, and FastAPI.
 
