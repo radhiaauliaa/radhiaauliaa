@@ -68,7 +68,7 @@ AI-powered Indonesian traditional snack classification using TensorFlow, MobileN
 ### 💬 Indonesian Sentiment Analysis
 Deep Learning model for sentiment analysis on Indonesian Google Play reviews using CNN, BiLSTM, and Word2Vec.
 
-### 📱 Flutter Applications
+### 📱 Nyam Makaan!
 Cross-platform mobile applications developed with Flutter and Firebase.
 
 ---
