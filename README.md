@@ -137,11 +137,11 @@ Cross-platform mobile applications developed with Flutter and Firebase.
 
 <img src="https://img.shields.io/badge/Computer%20Vision-FF6F00?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/MLOps-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Fullstack%20Development-009688?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Client-Server%20Programming-009688?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mobile%20Development-02569B?style=for-the-badge"/>
 
 </p>
 
